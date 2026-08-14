@@ -1,4 +1,5 @@
 
+
 ### 项目介绍
 
 - 名称：FastAPIFramework
@@ -25,6 +26,7 @@ pip install -r requirements.txt
 ```shell
 python main.py
 ```
+服务默认运行于 `127.0.0.1:9080`，可通过 `http://127.0.0.1:9080/fastapi_conf` 访问接口文档。
 
 ### 软件架构
 1、主要功能点有:
